@@ -25,8 +25,9 @@ Developed SlonReview, an AI-driven tool that delivers sentiment analysis of prod
 unbiased brand summaries and detailed feedback. Engineered data models and algorithms to provide precise
 insights on product quality and order execution, enhancing decision-making and streamlining review
 management.
-**Role:** Full Stack Developer ( Python, Django, ML Modeling, RemixJS, MySQL, Linode )
-**Key Challanges:** Sentiment analysis, Cause identifications, Summary generation, Background Processing, Multi
+-**Role:** Full Stack Developer ( Python, Django, ML Modeling, RemixJS, MySQL, Linode )
+
+-**Key Challanges:** Sentiment analysis, Cause identifications, Summary generation, Background Processing, Multi
 tenant architecture, Batch Processing, Script injection in shopify themes, ML pipeline. Product Recommendations
 using content based and collaborative filtering
 
@@ -38,6 +39,7 @@ nutritional content, ingredient quality, and environmental impact. Implemented a
 to assess macronutrients, micronutrients, organic and non-GMO certifications, carbon emissions, and packaging
 recyclability, enabling users to make informed, responsible food choices.
 - **Role:** Full Stack Developer ( NodeJS, ExpressJS, ReactJS, NextJS, MongoDB, AWS management )
+
 - **Key Challanges:** Scalability, Security, Payment integrations, Real time data managements, Cross platform
 compatibility, Multi threading, Background processing, Clustering, Database query optimizations.
 
@@ -48,8 +50,9 @@ Developed comprehensive event management solutions with Tabyt Organizers, includ
 tools, secure ticketing systems, and real-time guest list management. Enhanced user engagement and
 satisfaction through streamlined payment systems and interactive features, driving successful event execution
 and operational efficiency.
-**Role:** Full Stack Developer ( NodeJS,ExpressJS, ReactJS, NextJS, MongoDB, AWS management )
-**Key Challanges:** Scalability, Security, Payment integrations, Real time data managements, Cross platform
+-**Role:** Full Stack Developer ( NodeJS,ExpressJS, ReactJS, NextJS, MongoDB, AWS management )
+
+-**Key Challanges:** Scalability, Security, Payment integrations, Real time data managements, Cross platform
 compatibility, Multi threading, Background processing, Clustering, Database query optimizations.
 
 ## 🎓 Education
